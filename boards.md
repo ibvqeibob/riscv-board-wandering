@@ -130,3 +130,9 @@ Tranlated in Chinese:
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 0 | 2 | 用于RISC-V生态实验室建设 |
 | CanMV K230            | - | 0 | 2 | 用于RISC-V生态实验室建设 |
 | OrangePi RV2           | 2GB RAM | 1 | 2 |  |
+
+## 江苏漂流基地（RISC-V开源芯片产业创新中心）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 0 |  |
